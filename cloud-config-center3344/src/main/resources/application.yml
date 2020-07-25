@@ -8,10 +8,14 @@ spring:
     config:
       server:
         git:
-          uri: git@github.com:yuzhishuishui/stydy2020-springcloud.git #GitHub上面的git仓库名字
+#          uri: git@github.com:yuzhishuishui/springcloud2020-config.git #ssh链接
+#          uri:  https://github.com/yuzhishuishui/springcloud2020-config.git #https链接
+          uri: https://github.com/yuzhishuishui/study2020-springcloud.git
           ####搜索目录
           search-paths:
-            - stydy2020-springcloud/cloud-common-config
+#            - springcloud2020-config
+            - cloud-common-config
+          skip-ssl-validation: true
       ####读取分支
       label: master
 ##rabbitmq相关配置

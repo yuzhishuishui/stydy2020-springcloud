@@ -115,6 +115,7 @@ under the License.
       <module filepath="$PROJECT_DIR$/cloud-consumer-hystrix-order80/cloud-consumer-hystrix-order80.iml"/>
       <module filepath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/cloud-consumer-hystrix-dashboard9001.iml"/>
       <module filepath="$PROJECT_DIR$/cloud-gateway-gateway9527/cloud-gateway-gateway9527.iml"/>
+      <module filepath="$PROJECT_DIR$/cloud-config-center3344/cloud-config-center3344.iml"/>
     </modules> 
   </component>  
   <UsedPathMacros> 

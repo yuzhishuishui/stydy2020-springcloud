@@ -20,6 +20,7 @@
         <module name="cloud-eureka-serve7003" />
         <module name="cloud-eureka-serve7002" />
         <module name="cloud-eureka-serve7001" />
+        <module name="cloud-config-center3344" />
         <module name="cloud-providerconsul-payment8006" />
         <module name="cloud-gateway-gateway9527" />
         <module name="cloud-consumer-hystrix-dashboard9001" />
